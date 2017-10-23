@@ -12,4 +12,9 @@ int main(){
 	b=8;
 	h=(d1*d2*b);
 	cout<<"Luas 1 box parket : "<<h<<'\n';
+	
+	luas=42;
+	i=luas/h;
+	cout<<"Jumlah 1 box parket : "<<i<<'\n';
+	 
 }
