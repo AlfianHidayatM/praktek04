@@ -16,5 +16,8 @@ int main(){
 	luas=42;
 	i=luas/h;
 	cout<<"Jumlah 1 box parket : "<<i<<'\n';
+	j=500;
+	k=i*j;
+	cout<<"Biaya parket(Rp) : "<<k<<'\n';
 	 
 }
