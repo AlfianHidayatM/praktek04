@@ -24,6 +24,12 @@ int main(){
 	m=20;
 	l=luas*m;
 	cout<<"Biaya pasang(Rp) : "<<l<<'\n';
+	
+	n=l+k;
+	cout<<"Total biaya (Rp) : "<<n<<'\n';
+
+
+
 
 	 
 }
