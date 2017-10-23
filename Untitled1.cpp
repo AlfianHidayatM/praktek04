@@ -27,6 +27,11 @@ int main(){
 	
 	n=l+k;
 	cout<<"Total biaya (Rp) : "<<n<<'\n';
+	
+	cout<<"-----------------------------------------"<<endl;
+	cout<<"Muhammad Alfian Hidayat"<<endl;
+	cout<<"16.63.0020"<<endl;
+	cout<<"3G Reguler Malam";
 
 
 
