@@ -10,4 +10,6 @@ int main(){
 	d1=0.193;
 	d2=1.215;
 	b=8;
+	h=(d1*d2*b);
+	cout<<"Luas 1 box parket : "<<h<<'\n';
 }
